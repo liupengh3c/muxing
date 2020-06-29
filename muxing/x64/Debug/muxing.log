@@ -1,0 +1,25 @@
+﻿  muxing.cpp
+D:\study\muxing\muxing\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\study\muxing\muxing\muxing.cpp(59,25): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+D:\study\muxing\muxing\muxing.cpp(59,25): warning C4313: “fprintf”: 格式字符串中的“%s”与“int”类型的参数 1 冲突
+D:\study\muxing\muxing\muxing.cpp(71,29): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+D:\study\muxing\muxing\muxing.cpp(71,29): warning C4313: “fprintf”: 格式字符串中的“%s”与“int”类型的参数 1 冲突
+D:\study\muxing\muxing\muxing.cpp(84,29): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+D:\study\muxing\muxing\muxing.cpp(84,29): warning C4313: “fprintf”: 格式字符串中的“%s”与“int”类型的参数 1 冲突
+D:\study\muxing\muxing\muxing.cpp(232,25): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+D:\study\muxing\muxing\muxing.cpp(232,25): warning C4313: “fprintf”: 格式字符串中的“%s”与“int”类型的参数 1 冲突
+D:\study\muxing\muxing\muxing.cpp(238,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\study\muxing\muxing\muxing.cpp(240,53): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\study\muxing\muxing\muxing.cpp(292,9): warning C4244: “参数”: 从“double”转换到“int64_t”，可能丢失数据
+D:\study\muxing\muxing\muxing.cpp(328,40): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+D:\study\muxing\muxing\muxing.cpp(395,25): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+D:\study\muxing\muxing\muxing.cpp(395,25): warning C4313: “fprintf”: 格式字符串中的“%s”与“int”类型的参数 1 冲突
+D:\study\muxing\muxing\muxing.cpp(454,9): warning C4244: “参数”: 从“double”转换到“int64_t”，可能丢失数据
+D:\study\muxing\muxing\muxing.cpp(477,43): warning C4244: “参数”: 从“int64_t”转换到“int”，可能丢失数据
+D:\study\muxing\muxing\muxing.cpp(483,39): warning C4244: “参数”: 从“int64_t”转换到“int”，可能丢失数据
+D:\study\muxing\muxing\muxing.cpp(566,29): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“int”
+D:\study\muxing\muxing\muxing.cpp(566,29): warning C4313: “fprintf”: 格式字符串中的“%s”与“int”类型的参数 2 冲突
+D:\study\muxing\muxing\muxing.cpp(575,25): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+D:\study\muxing\muxing\muxing.cpp(575,25): warning C4313: “fprintf”: 格式字符串中的“%s”与“int”类型的参数 1 冲突
+D:\study\muxing\muxing\muxing.cpp(521,9): warning C4101: “i”: 未引用的局部变量
+  muxing.vcxproj -> D:\study\muxing\x64\Debug\muxing.exe
